@@ -1,0 +1,1 @@
+# Eda_Suicide_rate_kaggle_data
